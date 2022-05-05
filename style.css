@@ -1,0 +1,59 @@
+header{
+    width: 100%;
+    height: 105px;
+    background-image: url('img/fundo.png');
+    background-color: #fff;
+    text-align: right;
+
+}
+
+a{
+    color: purple;
+    display: inline-block;
+    text-align: right;
+    padding: 3px 6px;
+    padding-top: 40px;
+}
+a{
+    color: blueviolet;
+}
+.logo{
+    position: absolute;
+    top: 52px;
+}
+.container{
+    min-width: auto;
+    max-width: auto;
+    height: 413px;
+    background-color: gray;    
+}
+main{
+    min-width: 350px;
+    max-width: 900px;
+    height: 413px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: white;
+}
+
+.container1{
+    min-width: auto;
+    max-width: auto;
+    height: 413px;  
+}
+center{
+    min-width: 350px;
+    max-width: 900px;
+    height: 413px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: white;
+}
+
+h3{
+    text-align: center;
+}
+
+h1{
+    text-align: left;
+}
